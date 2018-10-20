@@ -2,7 +2,9 @@
 Hello GitHub
 
 - item1
+- item2
 
 # second section
 
-- item2
+- item3
+- item4

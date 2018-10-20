@@ -1,0 +1,36 @@
+body{
+ background:#D1EEEE;
+}
+
+h1{
+ font-size:72pt;
+ color:#ff0000;
+ background-color:aqua;
+}
+
+h2{
+ font-size:1.3em;
+ width:50px;
+ background:orange;
+ text-align:center;
+}
+
+
+h3{
+ border-bottom:botted 2px #000000;
+}
+
+.spuare_btn{ /*参考サイト：サルワカ（ https://saruwakakun.com/html-css/reference/buttons ） */
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+}
+.square_btn:hover{
+    background: #00bcd4;
+    color: white;
+}/*ボタンらしい見た目はしていない、修正が必要*/
